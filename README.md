@@ -20,5 +20,5 @@ Este proyecto es un sistema de notificaciones en tiempo real utilizando Node.js,
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/real-time-notifications.git
+   git clone https://github.com/abimaell95/real-time-notifications.git
    cd real-time-notifications
